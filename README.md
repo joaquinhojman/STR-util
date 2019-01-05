@@ -15,6 +15,5 @@ Para liberar el arreglo dinamico de cadenas creado mediante split se utiliza la 
 Join:
 Devuelve una cadena, allocada dinámicamente, resultado de unir todas las
 cadenas del arreglo terminado en NULL ‘strv’.
-
 Quien llama a la función toma responsabilidad de la memoria dinámica de la
 cadena devuelta. La función devuelve NULL si no se pudo allocar memoria.
